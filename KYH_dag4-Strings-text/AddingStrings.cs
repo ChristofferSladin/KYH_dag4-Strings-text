@@ -11,7 +11,7 @@ namespace KYH_dag4_Strings_text
 
         public void RunAddingStrings()
         {
-            //            Be användaren mata in 3 strängar.
+            //Be användaren mata in 3 strängar.
 
             //Addera ihop strängarna till EN ny sträng
 
