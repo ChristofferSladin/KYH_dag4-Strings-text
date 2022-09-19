@@ -23,5 +23,6 @@ using KYH_dag4_Strings_text;
 //var app6 = new SearchingForCharInString();
 //app6.RunSearchingForCharInString();
 
-
+//var app7 = new PalindromRecon();
+//app7.RunPalindromeRecon();
 
