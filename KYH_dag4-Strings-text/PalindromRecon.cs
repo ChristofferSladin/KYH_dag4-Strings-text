@@ -19,7 +19,7 @@ namespace KYH_dag4_Strings_text
 
             foreach (char c in inmatning)
             {
-                reverse = c + reverse ;      // SPELAR ROLL OM MAN HAR (c + reverse / reverse + c)  varför? skriver stringen baklänges?
+                reverse = c + reverse ; // SPELAR ROLL OM MAN HAR (c + reverse / reverse + c)  varför? skriver stringen baklänges?
             }
 
             if (reverse == inmatning)
